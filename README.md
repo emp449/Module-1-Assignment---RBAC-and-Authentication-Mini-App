@@ -1,1 +1,1 @@
-# Module-1-Assignment---RBAC-and-Authentication-Mini-App
+This small app demonstrates Confidentiality: only authorized users with the correct role can access certain actions. For example, only admins can see system logs, while regular users can only see their dashboard. This prevents sensitive information from being exposed to unauthorized people.
